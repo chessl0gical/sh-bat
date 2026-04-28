@@ -1,6 +1,6 @@
 #!/bin/bash
 
-USERNAME="chesslogic8"
+USERNAME="givegivegive"
 PER_PAGE=100
 PAGE=1
 
